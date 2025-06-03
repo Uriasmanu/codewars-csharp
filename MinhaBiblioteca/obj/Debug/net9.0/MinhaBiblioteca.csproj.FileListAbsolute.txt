@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\bin\Debug\net9.0\MinhaBiblioteca.deps.json
+C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\bin\Debug\net9.0\MinhaBiblioteca.dll
+C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\bin\Debug\net9.0\MinhaBiblioteca.pdb
+C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\MinhaBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\MinhaBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\MinhaBiblioteca.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\MinhaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\MinhaBiblioteca.dll
+C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\refint\MinhaBiblioteca.dll
+C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\MinhaBiblioteca.pdb
+C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\ref\MinhaBiblioteca.dll
