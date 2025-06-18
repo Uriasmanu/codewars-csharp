@@ -1,6 +1,7 @@
 namespace Solution 
 {
-  using NUnit.Framework;
+    using MinhaBiblioteca;
+    using NUnit.Framework;
   using System;
 
   [TestFixture]

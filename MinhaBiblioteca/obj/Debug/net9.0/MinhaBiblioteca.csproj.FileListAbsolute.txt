@@ -9,3 +9,4 @@ C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\obj\Debug\net9
 C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\refint\MinhaBiblioteca.dll
 C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\MinhaBiblioteca.pdb
 C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\ref\MinhaBiblioteca.dll
+C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\MinhaBiblioteca.sourcelink.json
