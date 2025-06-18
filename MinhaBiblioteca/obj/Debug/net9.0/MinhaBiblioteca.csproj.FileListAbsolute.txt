@@ -10,3 +10,15 @@ C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\obj\Debug\net9
 C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\MinhaBiblioteca.pdb
 C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\ref\MinhaBiblioteca.dll
 C:\Users\Usuario\Documents\GitHub\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\MinhaBiblioteca.sourcelink.json
+C:\git\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\MinhaBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\MinhaBiblioteca.AssemblyInfoInputs.cache
+C:\git\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\MinhaBiblioteca.AssemblyInfo.cs
+C:\git\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\MinhaBiblioteca.csproj.CoreCompileInputs.cache
+C:\git\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\MinhaBiblioteca.sourcelink.json
+C:\git\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\MinhaBiblioteca.dll
+C:\git\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\refint\MinhaBiblioteca.dll
+C:\git\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\MinhaBiblioteca.pdb
+C:\git\codewars-csharp\MinhaBiblioteca\bin\Debug\net9.0\MinhaBiblioteca.deps.json
+C:\git\codewars-csharp\MinhaBiblioteca\bin\Debug\net9.0\MinhaBiblioteca.dll
+C:\git\codewars-csharp\MinhaBiblioteca\bin\Debug\net9.0\MinhaBiblioteca.pdb
+C:\git\codewars-csharp\MinhaBiblioteca\obj\Debug\net9.0\ref\MinhaBiblioteca.dll

@@ -11,7 +11,7 @@ namespace Solution
     [TestCase(new int[]{1,1,1,1,1,1,1,1,1,1}, ExpectedResult="(111) 111-1111")]
     public static string FixedTest(int[] numbers)
     {
-      return Kata.CreatePhoneNumber(numbers);
+      return KataCreatePhoneNumber.CreatePhoneNumber(numbers);
     }
   }
 }

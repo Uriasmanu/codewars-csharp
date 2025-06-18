@@ -1,6 +1,6 @@
 namespace MinhaBiblioteca
 {
-    public class Kata
+    public class KataCreatePhoneNumber
     {
         public static string CreatePhoneNumber(int[] numbers)
         {

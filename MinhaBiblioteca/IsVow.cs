@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace MinhaBiblioteca
 {
-    public class Kata
+    public class KataIsVow
     {
         public static object[] IsVow(object[] arr)
         {
