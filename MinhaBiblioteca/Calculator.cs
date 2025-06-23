@@ -4,7 +4,7 @@ namespace MinhaBiblioteca
 {
     using System;
 
-    public class Kata
+    public class KataCalculator
     {
         public static double Calculator(object a, object b, char operation)
         {
