@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-public class Kata
+public class KataHellow
 {
     public static bool ValidateHello(string greetings)
     {
