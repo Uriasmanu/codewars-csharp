@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\codewars-csharp\\Testes\\Testes.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\GitHub\\codewars-csharp\\Testes\\Testes.csproj": {}
   },
   "projects": {
-    "C:\\git\\codewars-csharp\\MinhaBiblioteca\\MinhaBiblioteca.csproj": {
+    "C:\\Users\\Usuario\\Documents\\GitHub\\codewars-csharp\\MinhaBiblioteca\\MinhaBiblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\codewars-csharp\\MinhaBiblioteca\\MinhaBiblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\codewars-csharp\\MinhaBiblioteca\\MinhaBiblioteca.csproj",
         "projectName": "MinhaBiblioteca",
-        "projectPath": "C:\\git\\codewars-csharp\\MinhaBiblioteca\\MinhaBiblioteca.csproj",
-        "packagesPath": "C:\\Users\\Manoela Urias\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\codewars-csharp\\MinhaBiblioteca\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\codewars-csharp\\MinhaBiblioteca\\MinhaBiblioteca.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\codewars-csharp\\MinhaBiblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Manoela Urias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -65,24 +65,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\git\\codewars-csharp\\Testes\\Testes.csproj": {
+    "C:\\Users\\Usuario\\Documents\\GitHub\\codewars-csharp\\Testes\\Testes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\codewars-csharp\\Testes\\Testes.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\codewars-csharp\\Testes\\Testes.csproj",
         "projectName": "Testes",
-        "projectPath": "C:\\git\\codewars-csharp\\Testes\\Testes.csproj",
-        "packagesPath": "C:\\Users\\Manoela Urias\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\codewars-csharp\\Testes\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\codewars-csharp\\Testes\\Testes.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\codewars-csharp\\Testes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Manoela Urias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -97,8 +97,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\git\\codewars-csharp\\MinhaBiblioteca\\MinhaBiblioteca.csproj": {
-                "projectPath": "C:\\git\\codewars-csharp\\MinhaBiblioteca\\MinhaBiblioteca.csproj"
+              "C:\\Users\\Usuario\\Documents\\GitHub\\codewars-csharp\\MinhaBiblioteca\\MinhaBiblioteca.csproj": {
+                "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\codewars-csharp\\MinhaBiblioteca\\MinhaBiblioteca.csproj"
               }
             }
           }
@@ -113,7 +113,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -156,7 +156,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

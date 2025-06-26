@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+
+# Logs
+*.log
+
+# Pacotes
+packages/
+*.nupkg
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+
+# Rider
+.idea/
