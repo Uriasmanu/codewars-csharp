@@ -1,10 +1,11 @@
 namespace Solution 
 {
   using NUnit.Framework;
-  using System;
+  using MinhaBiblioteca;
 
-  [TestFixture]
-  public class KataTests
+
+    [TestFixture]
+  public class Tests
   {
     [Test]
     public void BasicTests()
